@@ -1,0 +1,1 @@
+La verdad que me resulta complicado entender cómo se utiliza ésta plataforma, TERMINAL? por qué colocando esos comando en la TERMINAL que se abre en INTELLIJ sube archivos a ésta plataforma? Quiero y necesito aprender más sobre todo este mundo, me encanta :D
